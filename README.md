@@ -1,9 +1,9 @@
 # DeepRead-Agent-Prompt
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/DeepRead-Agent-Prompt?style=social)](https://github.com/YOUR_USERNAME/DeepRead-Agent-Prompt/stargazers)
-[![Forks](https.img.shields.io/github/forks/YOUR_USERNAME/DeepRead-Agent-Prompt?style=social)](https://github.com/YOUR_USERNAME/DeepRead-Agent-Prompt/network/members)
-[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/DeepRead-Agent-Prompt)](https://github.com/YOUR_USERNAME/DeepRead-Agent-Prompt/issues)
+[![Stars](https://img.shields.io/github/stars/li4oya/DeepRead-Agent-Prompt?style=social)](https://github.com/li4oya/DeepRead-Agent-Prompt/stargazers)
+[![Forks](https.img.shields.io/github/forks/li4oya/DeepRead-Agent-Prompt?style=social)](https://github.com/li4oya/DeepRead-Agent-Prompt/network/members)
+[![Issues](https://img.shields.io/github/issues/li4oya/DeepRead-Agent-Prompt)](https://github.com/li4oya/DeepRead-Agent-Prompt/issues)
 
 <p align="center">
   <a href="#-about-the-project">English</a> •
