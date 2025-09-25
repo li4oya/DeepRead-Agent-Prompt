@@ -102,9 +102,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name / Alias - [@YourTwitter](https://twitter.com/YourTwitter) - your.email@example.com
-
-Project Link: [https://github.com/YOUR_USERNAME/DeepRead-Agent-Prompt](https://github.com/YOUR_USERNAME/DeepRead-Agent-Prompt)
+Project Link: [https://github.com/li4oya/DeepRead-Agent-Prompt](https://github.com/li4oya/DeepRead-Agent-Prompt)
 
 </details>
 
@@ -257,8 +255,6 @@ Project Link: [https://github.com/YOUR_USERNAME/DeepRead-Agent-Prompt](https://g
 
 ## 📧 联系方式
 
-你的名字/昵称 - [@你的Twitter](https://twitter.com/YourTwitter) - your.email@example.com
-
-项目链接: [https://github.com/YOUR_USERNAME/DeepRead-Agent-Prompt](https://github.com/YOUR_USERNAME/DeepRead-Agent-Prompt)
+项目链接: [https://github.com/li4oya/DeepRead-Agent-Prompt](https://github.com/li4oya/DeepRead-Agent-Prompt)
 
 </details>
