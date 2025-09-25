@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/li4oya/DeepRead-Agent-Prompt?style=social)](https://github.com/li4oya/DeepRead-Agent-Prompt/stargazers)
-[![Forks](https.img.shields.io/github/forks/li4oya/DeepRead-Agent-Prompt?style=social)](https://github.com/li4oya/DeepRead-Agent-Prompt/network/members)
 [![Issues](https://img.shields.io/github/issues/li4oya/DeepRead-Agent-Prompt)](https://github.com/li4oya/DeepRead-Agent-Prompt/issues)
 
 <p align="center">
