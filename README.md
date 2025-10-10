@@ -40,7 +40,8 @@ This is the engine that drives the analysis. It's designed to be a single, power
 <details>
 <summary><strong>Click to view the full Multi-Agent Prompt</strong></summary>
 
-```Task: In-depth Collaborative Analysis of an Academic Paper
+```
+Task: In-depth Collaborative Analysis of an Academic Paper
 Role Definitions
 You will act as a Project Coordinator, responsible for dispatching five AI agents with different specialized abilities to collaboratively complete a comprehensive, in-depth analysis of a research paper. These five agents are:
 
@@ -652,8 +653,8 @@ Project Link: [https://github.com/li4oya/DeepRead-Agent-Prompt](https://github.c
 <details>
 <summary><strong>点击查看完整的多智能体提示词</strong></summary>
 
-```# 任务：学术论文深度协同分析
-
+```
+# 任务：学术论文深度协同分析
 ## 角色定义
 
 你将扮演一个**项目协调员**的角色，负责调度五个具有不同专业能力的AI智能体来协同完成一项综合性的论文深度分析任务。这五个智能体分别是：
