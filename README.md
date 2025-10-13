@@ -900,7 +900,7 @@ Project Link: [https://github.com/li4oya/DeepRead-Agent-Prompt](https://github.c
 3.  **与大模型交互**:
     *   在你选用的大模型（如 Gemini pro 2.5）的对话界面中。
     *   将 **DeepRead-Agent-Prompt** 作为你的第一条消息粘贴并发送。
-    *   在下一条消息中，提供论文的文本和图表信息。
+    *   在同一条消息中，提供论文的文本和图表信息（或者直接提供PDF）。
 4.  **接收分析报告**: 大模型将遵循多智能体框架，生成一份详细、结构化的报告。
 
 ## 💡 输出示例
