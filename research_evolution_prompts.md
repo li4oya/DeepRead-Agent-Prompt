@@ -15,3 +15,21 @@
 ## 完整提示词（可直接复制）
 
 参考research_evolution_prompts.txt
+
+---
+
+## 效果展示
+
+以下是使用本系统生成的论文演进知识图谱示例：
+
+### 示例 1
+
+![示例 1](evolution_example/example_1.png)
+
+### 示例 2
+
+![示例 2](evolution_example/example_2.png)
+
+### 示例 3：加密流量领域
+
+![加密流量领域演进图谱](evolution_example/加密流量.png)
